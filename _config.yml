@@ -52,3 +52,5 @@ permalink:    /article/:title/
 paginate:     3
 sass:
   compressed: true
+
+amazon_affiliate: 448jp-22
