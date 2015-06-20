@@ -577,3 +577,12 @@ Copyright (c) 2014 Daniel Eden
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
 }
+
+.wf-loading .post {
+  visibility: hidden;
+}
+
+.wf-active .post,
+.wf-inactive .post {
+  visibility: visible;
+}
