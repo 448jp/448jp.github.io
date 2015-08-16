@@ -490,9 +490,11 @@ h6,
 
 .ad {
   width: 100%;
+  padding: 4rem;
 
   @media screen and (max-width: 728px) {
     width: 320px;
+    padding: 0;
   }
 }
 
