@@ -489,12 +489,12 @@ h6,
 }
 
 .ad {
-  width: 100%;
-  padding: 4rem;
+  max-width: 48rem;
+  margin: 0 auto;
 
   @media screen and (max-width: 728px) {
     width: 320px;
-    padding: 0;
+    margin: 0;
   }
 }
 
