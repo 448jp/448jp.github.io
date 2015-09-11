@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://blog.448.jp"
 
 # Google analytics
-google_analytics:
+google_analytics: "UA-64730-4"
 
 # Optional features
 animated:           false
