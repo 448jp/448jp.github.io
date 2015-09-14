@@ -1,0 +1,6 @@
+---
+published: false
+title: 第6回 CreateJS勉強会に行ってきた
+layout: post
+---
+先々週の金曜日、[第6回 CreateJS勉強会](https://atnd.org/events/68363)に行ってきました。
