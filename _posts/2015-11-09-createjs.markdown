@@ -1,0 +1,23 @@
+---
+published: true
+title: CreateJSの作者からTシャツのお礼が来たよの巻
+layout: post
+---
+先月、CreateJSの作者であるGrant Skinner師匠にTシャツを贈りました。経緯をご存じない方は、以下の記事からご覧ください。
+
+### 前回までのあらすじ
+
+[CreateJSの作者にTシャツを贈ったよの巻](http://blog.448.jp/article/createjs-t-shirt/)
+[第6回 CreateJS勉強会に行ってきた](http://blog.448.jp/article/6-createjs/)
+
+彼からお礼のメールが来ましたので、ご協力いただいた日本のユーザーのみなさんにご報告です！
+
+### Grant師匠からお礼が来たよ！
+
+というわけで、Tシャツを身につけたGrant師匠の勇姿はコチラ！
+
+![](/images/20151109.jpg "CreateJS Tシャツを身につけるGrant Skinner師匠")
+
+あらためて、Tシャツを贈るための募金にご協力いただいたみなさん、ありがとうございました。彼が着ているもの以外にも、合計3枚のTシャツを送りましたので、きっとgskinner.comの社員の方々に着ていただけることでしょう。
+
+なお、同じTシャツは、[SUZURI](https://suzuri.jp/448jp/199126/t-shirt/s/white)でいつでも購入可能です。色もサイズもたくさん選べますので、お好みのものをチョイスしてくださいね～（注：儲けはでないように金額を設定しています）。
