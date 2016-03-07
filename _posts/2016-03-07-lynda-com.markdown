@@ -1,0 +1,30 @@
+---
+published: true
+title: レスポンシブイメージを学べる動画コースを作ったよの巻
+layout: post
+---
+みなさん、今年の花粉症はいかがですか？ 私は今年もアレグラFXが手放せません。
+
+さて、今日は最近やったお仕事のご紹介です。「レスポンシブイメージ」と聞いて、何のことだかきちんと説明できるでしょうか？ 一般的に、ブラウザのさまざまな大きさの表示領域や、異なるデバイスに合わせて最適な画像を表示するためのしくみを、「レスポンシブイメージ」と呼びます。
+
+今回、そのレスポンシブイメージの概要と実装方法を詳しく学ぶための動画コースを、[lynda.com 日本版](https://www.lynda.jp/)で作成しました。全部で約1時間半、20本のレッスンで構成されています。
+
+![](https://dynamicimagesjp-v2b.netdna-ssl.com/product/jp281.jpg "")
+[レスポンシブイメージ入門](https://www.lynda.jp/courses/responsive-images)
+
+上記リンクに行くと、**1,990円**という価格設定にビビりますが、**実は月900円で他のコースも見放題というプランがある**ので、ご安心ください。10日間の無料体験もありますし、学生さんや教育機関であれば、年7,900円、つまり月あたり約650円というお得なアカデミックプランもあります。
+
+lynda.comの見放題プランでは、上記コース以外にもさまざまなコースを見ることができます。Webはもちろん、3D、CAD、写真・動画編集、デザイン、マーケティング、オフィスソフトにいたるまで、あらゆるトピックの動画コースが用意されています（私もいくつかのコースで新しい知見を得ることができました！）。専門書を1冊買うと3,000〜4,000円はしますから、その半額以下で数多くのトピックを学習できるのは、大変オトクと言えるのではないでしょうか。
+
+もちろん、本で学ぶのと、動画で学ぶのは、本質的な違いがありますが、じっくり自分のペースで学べるという意味では、あまり違いはありません。
+
+ここで紹介したレスポンシブイメージのコースから、いくつかのレッスンがYouTubeで無料公開されていますので、ぜひご覧になってみてくださいね。
+
+### レスポンシブイメージ入門：Webページにおける画像のしくみ｜lynda.com 日本版
+<iframe width="853" height="480" src="https://www.youtube.com/embed/B9swnwiBW5A?rel=0" frameborder="0" allowfullscreen></iframe>
+ 
+### レスポンシブイメージ入門：Picturefillを利用する｜lynda.com 日本版
+<iframe width="853" height="480" src="https://www.youtube.com/embed/BVqsqdmftAk?rel=0" frameborder="0" allowfullscreen></iframe>
+ 
+### レスポンシブイメージ入門：srcsetとwとは｜lynda.com 日本版
+<iframe width="853" height="480" src="https://www.youtube.com/embed/5iyGvEIVrkw?rel=0" frameborder="0" allowfullscreen></iframe>
