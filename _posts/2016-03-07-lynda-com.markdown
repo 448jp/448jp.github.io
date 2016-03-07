@@ -9,7 +9,7 @@ layout: post
 
 今回、そのレスポンシブイメージの概要と実装方法を詳しく学ぶための動画コースを、[lynda.com 日本版](https://www.lynda.jp/)で作成しました。全部で約1時間半、20本のレッスンで構成されています。
 
-![](https://dynamicimagesjp-v2b.netdna-ssl.com/product/jp281.jpg "レスポンシブイメージ入門")  s
+[![](https://dynamicimagesjp-v2b.netdna-ssl.com/product/jp281.jpg "レスポンシブイメージ入門")](https://www.lynda.jp/courses/responsive-images)  
 [レスポンシブイメージ入門](https://www.lynda.jp/courses/responsive-images)
 
 上記リンクに行くと、**1,990円**という価格設定にビビりますが、**実は月900円で他のコースも見放題というプランがある**ので、ご安心ください。10日間の無料体験もありますし、学生さんや教育機関であれば、年7,900円、つまり月あたり約650円というお得なアカデミックプランもあります。
