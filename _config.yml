@@ -1,3 +1,5 @@
+gems: [jekyll-paginate]
+
 # Site settings
 title:       448.jp blog
 email:       contact@448.jp
