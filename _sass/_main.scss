@@ -162,6 +162,11 @@ table {
   margin-top: 0;
   font-weight: 600;
   color: #333;
+  text-align: justify;
+}
+
+.post-header h1 {
+  text-align: justify;
 }
 
 .post-footer {
@@ -256,6 +261,7 @@ textarea.input {
 p {
   line-height: 1.5;
   color: #333;
+  text-align: justify;
 }
 
 abbr {
