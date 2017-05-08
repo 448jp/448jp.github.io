@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: コワーキングスペースの固定席を3年間使ってみた感想
 layout: post
 ---
