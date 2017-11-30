@@ -232,6 +232,7 @@ table {
 .post-meta {
   width: auto;
   font-size: 1rem;
+  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
   font-weight: 300;
   margin: 0;
   padding: .25em 0;
@@ -329,6 +330,11 @@ h6,
   font-weight: 900;
   line-height: 1.2;
   margin: 1em 0 0.5em;
+}
+
+h1,
+.h2 {
+  font-weight: normal;
 }
 
 .social-icons {
