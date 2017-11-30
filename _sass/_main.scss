@@ -15,8 +15,22 @@
 
 */
 
+@font-face {
+  font-family: MyYuGothic;
+  font-weight: normal;
+  src: local(YuGothic-Medium),
+  local("Yu Gothic Medium"); /* for Chrome */
+}
+
+@font-face {
+  font-family: MyYuGothic;
+  font-weight: bold;
+  src: local(YuGothic-Bold),
+  local("Yu Gothic"); /* for Chrome */
+}
+
 body {
-  font-family: "source-han-serif-japanese", "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "MyYuGothic", YuGothic, "Merriweather", "PT Serif", Georgia, "Times New Roman", sans-serif;
 }
 
 html, body {
@@ -311,7 +325,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: "ten-mincho", serif;
   font-weight: 900;
   line-height: 1.2;
   margin: 1em 0 0.5em;
