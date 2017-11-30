@@ -1,0 +1,28 @@
+---
+published: true
+title: Windows 10をインストールした
+layout: post
+---
+2015/7/29のリリース日以来、今か今かと待ち構えていましたが、ようやく私のPCにも降ってきました。というわけで迷わずインストール。
+
+インストール自体は1時間半くらいで終了。いくつか問題が出たので、私が行った解決方法を記しておきます。
+
+#### 起動時にエラー
+
+LCore.exeという実行ファイルが、「MSVCR110.dll」というファイルが見つからない、というエラーダイアログを何度か表示するようになった。
+
+Microsoftから[該当ファイル](http://www.microsoft.com/en-us/download/confirmation.aspx?id=30679&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1)（直リン）をダウンロードしてインストールすると解決。
+
+#### fnキーが効かない
+
+fnキーがまったく効かなくなっていた。
+
+[Boot Camp Support Softwareの最新版](https://support.apple.com/kb/DL1721?viewlocale=ja_JP&locale=ja_JP)をインストールすることで解決。なお、機種によってインストールすべきバージョンが異なるので、[リスト](https://support.apple.com/ja-jp/HT204048)を確認すべし。
+
+#### キー配置がリセットされた
+
+CtrlキーやWindowsキーなど、Windows特有のキーを使いやすいように[KeySwap](http://www.vector.co.jp/soft/winnt/util/se228667.html)で配置をカスタマイズしているのですが、これがリセットされていた。
+
+再度同じカスタマイズをすることで解決。
+
+こちらからは以上です。
